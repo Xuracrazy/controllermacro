@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.2.1 - 2026-09-27
+
+- Rebuilt the app (no code changes).
+
 ## v1.2.0 - 2026-09-27
 
 - New app icon (the controller). The exe file's own icon changes after you rebuild the exe with installer.bat.
