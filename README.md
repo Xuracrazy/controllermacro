@@ -1,8 +1,9 @@
 # controllermacro
 
 <!-- latest-update:start -->
-## Latest update - v1.2.2 (2026-09-27)
+## Latest update - v1.2.3 (2026-09-28)
 
+- New: keyboard keys can now be bound as macro inputs for virtual controller buttons. Keyboard detection works globally, even when Controller Macro is minimized or another app has focus.
 - Changed: removed the "Wait for L3 first" option. Macros now simply wait for each bind's configured "When I press" input, with no startup or reconnect arming step.
 - New app icon (the controller). The exe file's own icon changes after you rebuild the exe with installer.bat.
 - Fixed: the window could not be dragged around the screen. The controller reader no longer interferes with Windows' window moving.
