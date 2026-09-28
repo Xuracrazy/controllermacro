@@ -1,8 +1,11 @@
 # controllermacro
 
 <!-- latest-update:start -->
-## Latest update - v1.2.3 (2026-09-28)
+## Latest update - v1.2.4 (2026-09-28)
 
+- Fixed: rebuilt executables now force-refresh the Windows Explorer icon cache after the build so the new controller icon is visible instead of a cached old icon.
+- Changed: installer explicitly validates and applies ControllerMacro.ico to the PyInstaller build.
+- Changed: replaced the application icon with the supplied DualSense-style controller artwork. The same icon is embedded in the Windows executable and the app window.
 - New: keyboard keys can now be bound as macro inputs for virtual controller buttons. Keyboard detection works globally, even when Controller Macro is minimized or another app has focus.
 - Changed: removed the "Wait for L3 first" option. Macros now simply wait for each bind's configured "When I press" input, with no startup or reconnect arming step.
 - New app icon (the controller). The exe file's own icon changes after you rebuild the exe with installer.bat.
