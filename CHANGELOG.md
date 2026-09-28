@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.7.4 - 2026-09-28
+
+- Updated the app.
+
 ## v1.7.3 - 2026-09-28
 
 - Replaced the approximate native UI with the supplied Driftaline UI itself as the visible desktop surface.
