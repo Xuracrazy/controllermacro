@@ -1,9 +1,9 @@
 # controllermacro
 
 <!-- latest-update:start -->
-## Latest update - v1.1.6 (2026-09-27)
+## Latest update - v1.1.7 (2026-09-27)
 
-- Updated the app.
+- Rebuilt the app (no code changes).
 
 Earlier versions: [CHANGELOG.md](CHANGELOG.md)
 <!-- latest-update:end -->
