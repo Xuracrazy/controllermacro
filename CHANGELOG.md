@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.3.3 - 2026-09-28
+
+- Rebuilt the app (no code changes).
+
 ## v1.3.2 - 2026-09-28
 
 - Fixed: L3-to-R2 game binds could be accompanied by a Windows browser shortcut from another controller mapping layer. ControllerMacro now suppresses browser-key events that arrive immediately around an L3 press while preserving the L3 -> R2 macro.
