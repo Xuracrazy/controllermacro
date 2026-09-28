@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.8.0 - 2026-09-28
+
+Exact supplied Driftaline HTML UI; local native input bridge; no tkinter dependency.
+
 ## v1.7.4 - 2026-09-28
 
 - Updated the app.
