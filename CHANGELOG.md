@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.7.2 - 2026-09-28
+
+- Rebuilt the app (no code changes).
+
 ## v1.7.1 - 2026-09-28
 
 - Updated the app.
