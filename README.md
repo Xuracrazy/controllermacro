@@ -1,9 +1,9 @@
 # controllermacro
 
 <!-- latest-update:start -->
-## Latest update - v1.7.4 (2026-09-28)
+## Latest update - v1.8.0 (2026-09-28)
 
-- Updated the app.
+Exact supplied Driftaline HTML UI; local native input bridge; no tkinter dependency.
 
 Earlier versions: [CHANGELOG.md](CHANGELOG.md)
 <!-- latest-update:end -->
