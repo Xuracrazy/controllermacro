@@ -1,5 +1,9 @@
 # Changelog
 
+## v1.2.5 - 2026-09-28
+
+- Updated the app.
+
 ## v1.2.4 - 2026-09-28
 
 - Fixed: rebuilt executables now force-refresh the Windows Explorer icon cache after the build so the new controller icon is visible instead of a cached old icon.
